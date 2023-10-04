@@ -1,4 +1,4 @@
-![](https://github.com/dilshadbasith/dilshadbasith/blob/main/banner.jpg)
+![](https://github.com/dilshadbasith/dilshadbasith/blob/main/api.gif)
 <h1 align="center">Hi 👋, I'm Dilshad Basith</h1>
 <h3 align="center">A passionate Mern-Stack developer from India</h3>
 
